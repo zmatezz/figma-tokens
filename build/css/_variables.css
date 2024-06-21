@@ -1,9 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Jun 2024 18:42:14 GMT
+ * Generated on Fri, 21 Jun 2024 14:16:08 GMT
  */
 
 :root {
-  --color-black: #000000;
-  --color-white: #ffffff;
+  --collection-1-v-white: #ffffffff;
+  --collection-1-v-black: #1f2326ff;
+  --collection-1-v-red: #ff4656ff;
 }
