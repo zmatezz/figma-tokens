@@ -1,9 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Jun 2024 18:42:14 GMT
+ * Generated on Fri, 21 Jun 2024 14:16:08 GMT
  */
 
 module.exports = {
-  "ColorBlack": "#000000",
-  "ColorWhite": "#ffffff"
+  "Collection1VWhite": "#ffffffff",
+  "Collection1VBlack": "#1f2326ff",
+  "Collection1VRed": "#ff4656ff"
 };
